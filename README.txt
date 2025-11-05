@@ -9,3 +9,4 @@ How to use:
 1. Place main_logo.jpeg (transparent PNG/JPEG) alongside index.html
 2. Open index.html in a browser to preview locally
 3. Push files to GitHub repo and enable GitHub Pages (branch: main, folder: root)
+
